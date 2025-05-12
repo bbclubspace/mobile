@@ -1,6 +1,6 @@
 # Mobil
 
-**Circuit recegnition**, mevcut donanım cihazlarının görsel üzerinden yapay zeka aracılığı ile tanımlanması ve cihazlara göre proje önerilmesi sistemi.
+# **Circuit recegnition**, mevcut donanım cihazlarının görsel üzerinden yapay zeka aracılığı ile tanımlanması ve cihazlara göre proje önerilmesi sistemi.
 
 ---
 
@@ -35,7 +35,7 @@
 
 
 
-**AI prompt oluşturucu**, kullanıcıların cevaplarına değil sorularına yardımcı olabilmek
+# **AI prompt oluşturucu**, kullanıcıların cevaplarına değil sorularına yardımcı olabilmek
 
 ---
 
