@@ -1,70 +1,54 @@
-# Mobil alanında kullanılabilecek teknolojiler ve yapılabilecekler.
+# Mobil Alanda Kullanılabilecek Teknolojiler ve Uygulamalar
 
-## MObile alanda java, kotlin, swift(mac cihaz gerekli), react-native, flutter gibi birçok teknoloji kullanılarak projeler geliştirilebilir
+Mobil uygulama geliştirme alanında Java, Kotlin, Swift (macOS cihazı gerektirir), React Native ve Flutter gibi çeşitli teknolojiler kullanılabilir. Bu teknolojilerle hem Android hem de iOS platformları için zengin özellikli uygulamalar geliştirilebilir.
 
+## Yaptığımız Örnek Projeler
 
+### Circuit Recognition
 
+Mevcut donanım cihazlarının görselleri üzerinden yapay zeka yardımıyla tanımlanması ve bu cihazlara uygun projeler önerilmesi sistemidir.
 
+### 🚀 Amaçlar
 
-## Yaptığımız örnek projeler
+- Cihazların görsel veriler aracılığıyla yapay zeka ile tanımlanması  
+- Tespit edilen cihazlara uygun projelerin önerilmesi  
+- Önerilen projelerin detaylarının görüntülenmesi  
+- Kullanıcının tercih ettiği projelerin isim ve açıklamalarıyla birlikte kaydedilmesi ve “Projelerim” sayfasında görüntülenmesi
 
+### 🛠 Kullanılan Teknolojiler
 
-## **Circuit recegnition**, mevcut donanım cihazlarının görsel üzerinden yapay zeka aracılığı ile tanımlanması ve cihazlara göre proje önerilmesi sistemi.
+- Mobil Uygulama Geliştirme: Flutter (https://flutter.dev/)
+- Yapay Zeka API Sistemi: OpenRouter (https://openrouter.ai/)
+- Veri Tabanı: Firebase Firestore (https://firebase.google.com/docs/firestore)
 
----
+Görseller:
 
-## 🚀 Amaçlar
-
-- Mevcut cihazlarının görsel üzerinden yapay zeka ile belirlenmesi.
-- Tespit edilen cihazlara göre proje önerme sistemi.
-- Önerilen projelerin detayının gösterilmesi
-- Projelerin içerisinden tercih edilenin isim ve açıklaması ile kaydedilmesi ve projelerim sayfasında gösterilmesi.   
-
----
-
-
-## 🛠 Kullanılan Teknolojiler
-
-- **Mobil Uygulama Geliştirme**: [Flutter](https://flutter.dev/)
-- **Yapay zeka API sistemi**: [OpenRouter](https://openrouter.ai/)
-- **Veri Tabanı**: [Firebase Firestore](https://firebase.google.com/docs/firestore)
-
-
-<div align="center"> 
-  <img src="assets/circuit-recognition/welcome-screen.png" width="130" />
-  <img src="assets/circuit-recognition/login-screen.png" width="130" />
-  <img src="assets/circuit-recognition/signup-screen.png" width="130" />
-  <img src="assets/circuit-recognition/home.png" width="130" />
-  <img src="assets/circuit-recognition/new-project.png" width="130" />
-  <img src="assets/circuit-recognition/project-propasal.png" width="130" />
-  <img src="assets/circuit-recognition/my-project.png" width="130" />
-  
-</div> 
-
-
-
-
-## **AI prompt oluşturucu**, kullanıcıların cevaplarına değil sorularına yardımcı olabilmek
+assets/circuit-recognition/welcome-screen.png  
+assets/circuit-recognition/login-screen.png  
+assets/circuit-recognition/signup-screen.png  
+assets/circuit-recognition/home.png  
+assets/circuit-recognition/new-project.png  
+assets/circuit-recognition/project-propasal.png  
+assets/circuit-recognition/my-project.png
 
 ---
 
-## 🚀 Amaçlar
+### AI Prompt Oluşturucu
 
-- Kullanıcının güzel cevaplar alabilmesi için prompt girdilileri alınır.
-- Yapay zeka ile prompt istenen amaca en uygun olacak şekilde güncellenerek kullanıcıya sonuç olarak verilir.
-   
+Kullanıcıların daha etkili cevaplar alabilmesi için doğru ve etkili prompt'lar hazırlamalarını sağlayan mobil uygulamadır.
 
----
+### 🚀 Amaçlar
 
+- Kullanıcının yapay zekadan kaliteli cevaplar alabilmesi için prompt girdilerinin alınması  
+- Girilen bilgilerin yapay zeka yardımıyla optimize edilerek en iyi prompt'a dönüştürülmesi  
+- Sonuç olarak en uygun prompt’un kullanıcıya sunulması
 
-## 🛠 Kullanılan Teknolojiler
+### 🛠 Kullanılan Teknolojiler
 
-- **Mobil Uygulama Geliştirme**: [Flutter](https://flutter.dev/)
-- **Yapay zeka API sistemi**: [OpenRouter](https://openrouter.ai/)
+- Mobil Uygulama Geliştirme: Flutter (https://flutter.dev/)
+- Yapay Zeka API Sistemi: OpenRouter (https://openrouter.ai/)
 
-<div align="center"> 
-  <img src="assets/ai-prompt-duzeltici/dark-mode.png" width="150" />
-  <img src="assets/ai-prompt-duzeltici/light-mode.png" width="150" />
-  
-</div> 
+Görseller:
 
+assets/ai-prompt-duzeltici/dark-mode.png  
+assets/ai-prompt-duzeltici/light-mode.png
