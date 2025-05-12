@@ -27,10 +27,14 @@ Bu uygulama, yurtta yaşayan bireylerin hem sosyal hem de günlük yaşamların�
 
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/446eb276-5bce-4e50-b19a-7e4f3e466fff" width="130" />
-  <img src="https://github.com/user-attachments/assets/43c006a1-00da-4e23-9a94-9adc6c82b1fd" width="130" />
-  <img src="https://github.com/user-attachments/assets/c5bf06b1-ab91-4261-a0c3-05c589ac6fbd" width="130" />
-  <img src="https://github.com/user-attachments/assets/9a424216-65ce-401b-9d76-2df388c9ec7b" width="130" />
+  <img src="assets/circuit-recognition/welcome-screen.png" width="130" />
+  <img src="assets/circuit-recognition/login-screen.png" width="130" />
+  <img src="assets/circuit-recognition/signup-screen.png" width="130" />
+  <img src="assets/circuit-recognition/home.png" width="130" />
+  <img src="assets/circuit-recognition/new-project.png" width="130" />
+  <img src="assets/circuit-recognition/proje-proposal.png" width="130" />
+  <img src="assets/circuit-recognition/my-project.png" width="130" />
+  
 </div> 
 
 <div align="center">
