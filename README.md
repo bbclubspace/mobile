@@ -27,7 +27,7 @@
   <img src="assets/circuit-recognition/signup-screen.png" width="130" />
   <img src="assets/circuit-recognition/home.png" width="130" />
   <img src="assets/circuit-recognition/new-project.png" width="130" />
-  <img src="assets/circuit-recognition/project-proposal.png" width="130" />
+  <img src="assets/circuit-recognition/project-propasal.png" width="130" />
   <img src="assets/circuit-recognition/my-project.png" width="130" />
   
 </div> 
