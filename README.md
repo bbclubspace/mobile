@@ -1,6 +1,15 @@
-# Mobil
+# Mobil alanında kullanılabilecek teknolojiler ve yapılabilecekler.
 
-# **Circuit recegnition**, mevcut donanım cihazlarının görsel üzerinden yapay zeka aracılığı ile tanımlanması ve cihazlara göre proje önerilmesi sistemi.
+## MObile alanda java, kotlin, swift(mac cihaz gerekli), react-native, flutter gibi birçok teknoloji kullanılarak projeler geliştirilebilir
+
+
+
+
+
+## Yaptığımız örnek projeler
+
+
+## **Circuit recegnition**, mevcut donanım cihazlarının görsel üzerinden yapay zeka aracılığı ile tanımlanması ve cihazlara göre proje önerilmesi sistemi.
 
 ---
 
@@ -35,7 +44,7 @@
 
 
 
-# **AI prompt oluşturucu**, kullanıcıların cevaplarına değil sorularına yardımcı olabilmek
+## **AI prompt oluşturucu**, kullanıcıların cevaplarına değil sorularına yardımcı olabilmek
 
 ---
 
