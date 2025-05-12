@@ -23,14 +23,16 @@ Mevcut donanım cihazlarının görselleri üzerinden yapay zeka yardımıyla ta
 
 Görseller:
 
-assets/circuit-recognition/welcome-screen.png  
-assets/circuit-recognition/login-screen.png  
-assets/circuit-recognition/signup-screen.png  
-assets/circuit-recognition/home.png  
-assets/circuit-recognition/new-project.png  
-assets/circuit-recognition/project-propasal.png  
-assets/circuit-recognition/my-project.png
-
+<div align="center"> 
+  <img src="assets/circuit-recognition/welcome-screen.png" width="130" />
+  <img src="assets/circuit-recognition/login-screen.png" width="130" />
+  <img src="assets/circuit-recognition/signup-screen.png" width="130" />
+  <img src="assets/circuit-recognition/home.png" width="130" />
+  <img src="assets/circuit-recognition/new-project.png" width="130" />
+  <img src="assets/circuit-recognition/project-propasal.png" width="130" />
+  <img src="assets/circuit-recognition/my-project.png" width="130" />
+  
+</div> 
 ---
 
 ### AI Prompt Oluşturucu
@@ -50,5 +52,8 @@ Kullanıcıların daha etkili cevaplar alabilmesi için doğru ve etkili prompt'
 
 Görseller:
 
-assets/ai-prompt-duzeltici/dark-mode.png  
-assets/ai-prompt-duzeltici/light-mode.png
+<div align="center"> 
+  <img src="assets/ai-prompt-duzeltici/dark-mode.png" width="150" />
+  <img src="assets/ai-prompt-duzeltici/light-mode.png" width="150" />
+  
+</div> 
