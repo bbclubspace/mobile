@@ -52,8 +52,8 @@
 - **Yapay zeka API sistemi**: [OpenRouter](https://openrouter.ai/)
 
 <div align="center"> 
-  <img src="assets/ai-prompt-duzeltici/dark-mode.png" width="130" />
-  <img src="assets/ai-prompt-duzeltici/light-mode.png" width="130" />
+  <img src="assets/ai-prompt-duzeltici/dark-mode.png" width="150" />
+  <img src="assets/ai-prompt-duzeltici/light-mode.png" width="150" />
   
 </div> 
 
